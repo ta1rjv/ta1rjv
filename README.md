@@ -1,6 +1,5 @@
 <!-- ============================================================
      TA1RJV · GITHUB PROFILE README
-     RF ENGINEERING · SDR · DSP · DIGITAL COMMUNICATIONS
      ============================================================ -->
 
 <div align="center">
