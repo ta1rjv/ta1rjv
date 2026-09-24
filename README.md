@@ -4,11 +4,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,55:1f6feb,80:58a6ff,100:0d1117&height=280&section=header&text=Selim%20Can%20Say%C4%B1l%C4%B1r&fontSize=54&fontColor=ffffff&fontAlignY=36&fontFamily=JetBrains%20Mono&animation=twinkling&desc=RF%20Engineering%20%E2%80%A2%20SDR%20%E2%80%A2%20DSP%20%E2%80%A2%20Digital%20Communications&descAlignY=58&descSize=17&descColor=58a6ff" width="100%"/>
+<!-- ========================= HERO ========================= -->
 
-<a href="https://github.com/ta1rjv">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=%3E+Designing%2C+measuring+and+understanding+communication+systems.;%3E+From+theory+%E2%86%92+hardware+%E2%86%92+software+%E2%86%92+measurement.;%3E+73+de+TA1RJV+%E2%80%94+see+you+on+the+bands." alt="Typing SVG"/>
-</a>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:05080d,18:0b1220,42:102a56,68:1f6feb,100:0b1220&height=230&section=header&text=TA1RJV&fontSize=56&fontColor=ffffff&fontAlignY=44&fontFamily=JetBrains%20Mono&animation=twinkling"
+  width="100%"
+  alt="ta1rjv"
+/>
 
 <br/>
 
@@ -443,27 +445,5 @@ alt="GitHub Contribution Snake"
 </div>
 
 ---
-
-## Contact
-
-<div align="center">
-
-<a href="https://github.com/ta1rjv">
-  <img src="https://img.shields.io/badge/GitHub-ta1rjv-161b22?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
-</a>
-
-<a href="https://www.qrz.com/db/TA1RJV">
-  <img src="https://img.shields.io/badge/QRZ.com-TA1RJV-1f6feb?style=for-the-badge&logo=radio&logoColor=ffffff" alt="QRZ"/>
-</a>
-
-<br/><br/>
-
-### `Build · Measure · Understand · Document`
-
-<br/>
-
-<sub>73 de <strong>TA1RJV</strong> · See you on the bands.</sub>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1f6feb,60:58a6ff,100:0d1117&height=140&section=footer&text=73%20de%20TA1RJV&fontSize=25&fontColor=58a6ff&fontAlignY=70&animation=twinkling&desc=See%20you%20on%20the%20bands&descAlignY=88&descSize=13&descColor=8b949e" width="100%" alt="Footer"/>
