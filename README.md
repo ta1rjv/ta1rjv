@@ -14,12 +14,14 @@
 <br/>
 
 <a href="https://github.com/ta1rjv">
-  <img src="https://img.shields.io/badge/GitHub-ta1rjv-161b22?style=for-the-badge&logo=github&logoColor=58a6ff"/>
+  <img src="https://img.shields.io/badge/GitHub-ta1rjv-161b22?style=for-the-badge&logo=github&logoColor=58a6ff" alt="GitHub"/>
 </a>
+
 <a href="https://www.qrz.com/db/TA1RJV">
-  <img src="https://img.shields.io/badge/QRZ-TA1RJV-161b22?style=for-the-badge&logo=radio&logoColor=58a6ff"/>
+  <img src="https://img.shields.io/badge/QRZ-TA1RJV-161b22?style=for-the-badge&logo=radio&logoColor=58a6ff" alt="QRZ"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=ta1rjv&label=PROFILE%20VIEWS&color=1f6feb&style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=ta1rjv&label=PROFILE%20VIEWS&color=1f6feb&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -105,18 +107,18 @@ Technical web applications, visualization, simulation utilities, measurement too
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,linux,raspberrypi,git,bash,html,css,js,arduino,vscode,github&theme=dark&perline=14" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,linux,raspberrypi,git,bash,html,css,js,arduino,vscode,github&theme=dark&perline=14" alt="Technical stack"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/GNU%20Radio-161b22?style=flat-square&logo=gnuradio&logoColor=FF6600"/>
-<img src="https://img.shields.io/badge/SDR-HackRF%20%C2%B7%20RTL--SDR%20%C2%B7%20PlutoSDR-161b22?style=flat-square&logo=radio&logoColor=58a6ff"/>
-<img src="https://img.shields.io/badge/KiCad-161b22?style=flat-square&logo=kicad&logoColor=314CB0"/>
-<img src="https://img.shields.io/badge/LaTeX-161b22?style=flat-square&logo=latex&logoColor=008080"/>
-<img src="https://img.shields.io/badge/Markdown-161b22?style=flat-square&logo=markdown&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Jupyter-161b22?style=flat-square&logo=jupyter&logoColor=F37626"/>
-<img src="https://img.shields.io/badge/NumPy-161b22?style=flat-square&logo=numpy&logoColor=4dabcf"/>
-<img src="https://img.shields.io/badge/SciPy-161b22?style=flat-square&logo=scipy&logoColor=8CAAE6"/>
+<img src="https://img.shields.io/badge/GNU%20Radio-161b22?style=flat-square&logo=gnuradio&logoColor=FF6600" alt="GNU Radio"/>
+<img src="https://img.shields.io/badge/SDR-HackRF%20%C2%B7%20RTL--SDR%20%C2%B7%20PlutoSDR-161b22?style=flat-square&logo=radio&logoColor=58a6ff" alt="SDR"/>
+<img src="https://img.shields.io/badge/KiCad-161b22?style=flat-square&logo=kicad&logoColor=314CB0" alt="KiCad"/>
+<img src="https://img.shields.io/badge/LaTeX-161b22?style=flat-square&logo=latex&logoColor=008080" alt="LaTeX"/>
+<img src="https://img.shields.io/badge/Markdown-161b22?style=flat-square&logo=markdown&logoColor=ffffff" alt="Markdown"/>
+<img src="https://img.shields.io/badge/Jupyter-161b22?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/NumPy-161b22?style=flat-square&logo=numpy&logoColor=4dabcf" alt="NumPy"/>
+<img src="https://img.shields.io/badge/SciPy-161b22?style=flat-square&logo=scipy&logoColor=8CAAE6" alt="SciPy"/>
 
 </div>
 
@@ -292,16 +294,16 @@ My amateur-radio work provides a practical environment where several disciplines
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/RF%20Engineering-161b22?style=flat-square&logo=radio&logoColor=58a6ff"/>
-<img src="https://img.shields.io/badge/SDR-161b22?style=flat-square&logo=radio&logoColor=58a6ff"/>
-<img src="https://img.shields.io/badge/DSP-161b22?style=flat-square&logo=signal&logoColor=58a6ff"/>
-<img src="https://img.shields.io/badge/VHF%20%2F%20UHF-161b22?style=flat-square&logo=radio&logoColor=58a6ff"/>
-<img src="https://img.shields.io/badge/Microwave-161b22?style=flat-square&logo=radio&logoColor=58a6ff"/>
-<img src="https://img.shields.io/badge/QO--100-161b22?style=flat-square&logo=satellite&logoColor=58a6ff"/>
-<img src="https://img.shields.io/badge/EME-161b22?style=flat-square&logo=radio&logoColor=58a6ff"/>
-<img src="https://img.shields.io/badge/Meteor%20Scatter-161b22?style=flat-square&logo=radio&logoColor=58a6ff"/>
-<img src="https://img.shields.io/badge/Rain%20Scatter-161b22?style=flat-square&logo=radio&logoColor=58a6ff"/>
-<img src="https://img.shields.io/badge/DATV-161b22?style=flat-square&logo=radio&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/RF%20Engineering-161b22?style=flat-square&logo=radio&logoColor=58a6ff" alt="RF Engineering"/>
+<img src="https://img.shields.io/badge/SDR-161b22?style=flat-square&logo=radio&logoColor=58a6ff" alt="SDR"/>
+<img src="https://img.shields.io/badge/DSP-161b22?style=flat-square&logo=radio&logoColor=58a6ff" alt="DSP"/>
+<img src="https://img.shields.io/badge/VHF%20%2F%20UHF-161b22?style=flat-square&logo=radio&logoColor=58a6ff" alt="VHF UHF"/>
+<img src="https://img.shields.io/badge/Microwave-161b22?style=flat-square&logo=radio&logoColor=58a6ff" alt="Microwave"/>
+<img src="https://img.shields.io/badge/QO--100-161b22?style=flat-square&logo=satellite&logoColor=58a6ff" alt="QO-100"/>
+<img src="https://img.shields.io/badge/EME-161b22?style=flat-square&logo=radio&logoColor=58a6ff" alt="EME"/>
+<img src="https://img.shields.io/badge/Meteor%20Scatter-161b22?style=flat-square&logo=radio&logoColor=58a6ff" alt="Meteor Scatter"/>
+<img src="https://img.shields.io/badge/Rain%20Scatter-161b22?style=flat-square&logo=radio&logoColor=58a6ff" alt="Rain Scatter"/>
+<img src="https://img.shields.io/badge/DATV-161b22?style=flat-square&logo=radio&logoColor=58a6ff" alt="DATV"/>
 
 </div>
 
@@ -373,21 +375,21 @@ Claims should be testable against evidence.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ta1rjv&theme=github_dark" height="180" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ta1rjv&theme=github_dark&exclude=Jupyter%20Notebook" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ta1rjv&theme=github_dark" height="180" alt="GitHub statistics"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ta1rjv&theme=github_dark&exclude=Jupyter%20Notebook" height="180" alt="Repositories by language"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ta1rjv&theme=github_dark&exclude=Jupyter%20Notebook" height="180" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ta1rjv&theme=github_dark&utcOffset=3" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ta1rjv&theme=github_dark&exclude=Jupyter%20Notebook" height="180" alt="Most committed language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ta1rjv&theme=github_dark&utcOffset=3" height="180" alt="Productive time"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ta1rjv&theme=github_dark" width="94%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ta1rjv&theme=github_dark" width="94%" alt="GitHub profile details"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ta1rjv&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity" width="94%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ta1rjv&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity" width="94%" alt="GitHub contribution activity"/>
 
 </div>
 
@@ -397,9 +399,15 @@ Claims should be testable against evidence.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ta1rjv/ta1rjv/main/profile-3d-contrib/profile-night-rainbow.svg" width="94%" />
+<img
+src="https://raw.githubusercontent.com/ta1rjv/ta1rjv/main/profile-3d-contrib/profile-night-rainbow.svg"
+width="94%"
+alt="3D GitHub Contribution Graph"
+/>
 
-<sub>Automatically generated contribution visualization.</sub>
+<br/>
+
+<sub>Automatically generated from GitHub contribution activity.</sub>
 
 </div>
 
@@ -409,7 +417,13 @@ Claims should be testable against evidence.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ta1rjv/ta1rjv/output/github-contribution-grid-snake-dark.svg" width="94%" />
+<img
+src="https://raw.githubusercontent.com/ta1rjv/ta1rjv/output/github-contribution-grid-snake-dark.svg"
+width="94%"
+alt="GitHub Contribution Snake"
+/>
+
+<br/>
 
 <sub>Contribution activity rendered as a generated SVG.</sub>
 
@@ -432,11 +446,11 @@ Claims should be testable against evidence.
 <div align="center">
 
 <a href="https://github.com/ta1rjv">
-  <img src="https://img.shields.io/badge/GitHub-ta1rjv-161b22?style=for-the-badge&logo=github&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/GitHub-ta1rjv-161b22?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
 </a>
 
 <a href="https://www.qrz.com/db/TA1RJV">
-  <img src="https://img.shields.io/badge/QRZ.com-TA1RJV-1f6feb?style=for-the-badge&logo=radio&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/QRZ.com-TA1RJV-1f6feb?style=for-the-badge&logo=radio&logoColor=ffffff" alt="QRZ"/>
 </a>
 
 <br/><br/>
@@ -449,4 +463,4 @@ Claims should be testable against evidence.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1f6feb,60:58a6ff,100:0d1117&height=140&section=footer&text=73%20de%20TA1RJV&fontSize=25&fontColor=58a6ff&fontAlignY=70&animation=twinkling&desc=See%20you%20on%20the%20bands&descAlignY=88&descSize=13&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1f6feb,60:58a6ff,100:0d1117&height=140&section=footer&text=73%20de%20TA1RJV&fontSize=25&fontColor=58a6ff&fontAlignY=70&animation=twinkling&desc=See%20you%20on%20the%20bands&descAlignY=88&descSize=13&descColor=8b949e" width="100%" alt="Footer"/>
