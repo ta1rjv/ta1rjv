@@ -237,15 +237,15 @@ The objective is to understand **why it works, when it works, when it fails, and
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ta1rjv&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="165">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ta1rjv&theme=github_dark" height="180">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ta1rjv&layout=compact&hide_border=true&langs_count=8" height="165">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ta1rjv&theme=github_dark&exclude=Jupyter%20Notebook" height="180">
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ta1rjv&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ta1rjv&theme=github_dark" width="90%">
 
 </div>
 
