@@ -113,7 +113,7 @@ Technical web applications, visualization, simulation utilities, measurement too
 <br/><br/>
 
 <img src="https://img.shields.io/badge/GNU%20Radio-161b22?style=flat-square&logo=gnuradio&logoColor=FF6600" alt="GNU Radio"/>
-<img src="https://img.shields.io/badge/SDR-HackRF%20%C2%B7%20RTL--SDR%20%C2%B7%20PlutoSDR-161b22?style=flat-square&logo=radio&logoColor=58a6ff" alt="SDR"/>
+<img src="https://img.shields.io/badge/SDR-HackRF%20%C2%B7%20PlutoSDR-161b22?style=flat-square&logo=radio&logoColor=58a6ff" alt="SDR"/>
 <img src="https://img.shields.io/badge/KiCad-161b22?style=flat-square&logo=kicad&logoColor=314CB0" alt="KiCad"/>
 <img src="https://img.shields.io/badge/LaTeX-161b22?style=flat-square&logo=latex&logoColor=008080" alt="LaTeX"/>
 <img src="https://img.shields.io/badge/Markdown-161b22?style=flat-square&logo=markdown&logoColor=ffffff" alt="Markdown"/>
