@@ -15,7 +15,7 @@
 
 ## About
 
-I am an **RF engineer focused on radio frequency systems, software-defined radio, digital communications, signal processing, embedded systems and experimental communication technologies**.
+I am an **Ham radio operator focused on radio frequency systems, software-defined radio, digital communications, signal processing, embedded systems and experimental communication technologies**.
 
 My work sits at the boundary between **hardware and software**. I am interested in how an idea moves from theory and mathematics into an actual system: how a signal is generated, processed, transmitted, propagated, received, measured and interpreted.
 
