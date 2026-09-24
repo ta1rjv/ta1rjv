@@ -388,7 +388,11 @@ Claims should be testable against evidence.
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ta1rjv&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity" width="94%" alt="GitHub contribution activity"/>
+<img
+  src="https://raw.githubusercontent.com/ta1rjv/ta1rjv/output/activity-graph.svg"
+  width="94%"
+  alt="GitHub contribution activity"
+/>
 
 </div>
 
