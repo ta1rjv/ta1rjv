@@ -1,0 +1,79 @@
+name: Generate Contribution Activity Graph
+
+on:
+  schedule:
+    - cron: "43 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: activity-graph
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: >-
+            bg_color=0d1117&
+            color=58a6ff&
+            line=1f6feb&
+            point=ffffff&
+            area=true&
+            area_color=1f6feb&
+            hide_border=true&
+            custom_title=Contribution%20Activity
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Preserve generated SVG
+        run: |
+          cp dist/activity-graph.svg /tmp/activity-graph.svg
+
+      - name: Switch to output branch
+        run: |
+          git fetch origin output:output 2>/dev/null || true
+
+          if git show-ref --verify --quiet refs/remotes/origin/output; then
+            git switch -C output origin/output
+          else
+            git switch --orphan output
+            git rm -rf . || true
+          fi
+
+      - name: Publish activity graph
+        run: |
+          cp /tmp/activity-graph.svg activity-graph.svg
+
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add activity-graph.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+
+          git commit -m "chore: update contribution activity graph"
+
+          git pull --rebase origin output || true
+          git push origin output
