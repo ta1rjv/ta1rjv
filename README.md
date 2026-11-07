@@ -6,12 +6,6 @@
 
 <!-- ========================= HERO ========================= -->
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:05080d,18:0b1220,42:102a56,68:1f6feb,100:0b1220&height=230&section=header&text=TA1RJV&fontSize=56&fontColor=ffffff&fontAlignY=44&fontFamily=JetBrains%20Mono&animation=twinkling"
-  width="100%"
-  alt="ta1rjv"
-/>
-
 <br/>
 
 <a href="https://github.com/ta1rjv">
