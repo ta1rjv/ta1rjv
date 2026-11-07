@@ -429,13 +429,3 @@ alt="GitHub Contribution Snake"
 </div>
 
 ---
-
-## Current Technical Focus
-
-<div align="center">
-
-`73`
-
-</div>
-
----
