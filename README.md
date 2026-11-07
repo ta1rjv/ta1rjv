@@ -434,10 +434,8 @@ alt="GitHub Contribution Snake"
 
 <div align="center">
 
-`RF Systems` · `SDR` · `DSP` · `Digital Communications` · `Propagation` · `Microwave` · `Embedded Linux` · `Engineering Software` · `Open Source`
+`73`
 
 </div>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1f6feb,60:58a6ff,100:0d1117&height=140&section=footer&text=73%20de%20TA1RJV&fontSize=25&fontColor=58a6ff&fontAlignY=70&animation=twinkling&desc=See%20you%20on%20the%20bands&descAlignY=88&descSize=13&descColor=8b949e" width="100%" alt="Footer"/>
