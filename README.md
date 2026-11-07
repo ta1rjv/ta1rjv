@@ -3,20 +3,13 @@
      ============================================================ -->
 
 <div align="center">
-
-<!-- ========================= HERO ========================= -->
-
-<br/>
-
-<a href="https://github.com/ta1rjv">
-  <img src="https://img.shields.io/badge/GitHub-ta1rjv-161b22?style=for-the-badge&logo=github&logoColor=58a6ff" alt="GitHub"/>
-</a>
-
 <a href="https://www.qrz.com/db/TA1RJV">
   <img src="https://img.shields.io/badge/QRZ-TA1RJV-161b22?style=for-the-badge&logo=radio&logoColor=58a6ff" alt="QRZ"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=ta1rjv&label=PROFILE%20VIEWS&color=1f6feb&style=for-the-badge" alt="Profile views"/>
+<a href="https://github.com/ta1rjv?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-161b22?style=for-the-badge&logo=github&logoColor=58a6ff" alt="Repositories"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=ta1rjv&label=VIEWS&color=1f6feb&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -24,73 +17,44 @@
 
 ## About
 
-I am an amateur radio operator and RF-focused engineer working across **radio-frequency systems, software-defined radio, digital communications, signal processing, embedded Linux and experimental communication technologies**.
+Amateur radio operator (TA1RJV) and RF-focused engineer working at the boundary between **physical systems and software** — from RF front-ends and antennas to DSP, SDR and embedded Linux.
 
-My work is centered on the boundary between **physical systems and software**. I am interested not only in whether a system works, but in understanding the complete signal path:
-
-> **Generate → Process → Transmit → Propagate → Receive → Measure → Interpret**
-
-This means treating RF hardware, DSP, software, antennas, propagation, embedded platforms and instrumentation as interconnected parts of one engineering problem.
-
-<div align="center">
-
-`theory` → `circuit` → `code` → `air` → `measurement` → `validation`
-
-</div>
+Not just making a system work, but understanding *why* it works, when it fails, and how the result can be reproduced.
 
 ---
 
-## Engineering Scope
+## Focus Areas
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### RF Engineering
+**RF & Microwave**
+Front-ends · filters · impedance matching · transmission lines · frequency conversion · practical measurement
 
-RF front-ends, microwave systems, impedance matching, filters, amplifiers, frequency conversion, transmission lines, antennas and measurement.
+**SDR & DSP**
+IQ processing · modulation · receiver/transmitter chains · software-controlled RF
 
-</td>
+**Digital Communications**
+Weak-signal modes · synchronization · coding · bandwidth efficiency
 
-<td width="33%" valign="top">
-
-### Software Defined Radio
-
-SDR architectures, IQ processing, DSP, modulation, signal generation, receiver chains and software-controlled RF systems.
-
-</td>
-
-<td width="33%" valign="top">
-
-### Digital Communications
-
-Weak-signal communication, synchronization, modulation, coding, bandwidth efficiency and practical digital transmission systems.
+**Antennas & Propagation**
+Antenna systems · matching · LOS · Fresnel · rain/meteor scatter · EME · atmospheric effects
 
 </td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td width="33%" valign="top">
+**Embedded Systems**
+Embedded Linux · Raspberry Pi · hardware interfaces · networking · automation
 
-### Embedded Systems
+**Engineering Software**
+RF-oriented tools · visualization · measurement interfaces · simulation · propagation utilities
 
-Embedded Linux, Raspberry Pi platforms, hardware interfaces, networking, automation and software-defined electronics.
+**Experimental Systems**
+Reverse engineering · undocumented hardware · measurement-driven characterization · test automation
 
-</td>
-
-<td width="33%" valign="top">
-
-### Propagation & Antennas
-
-Line-of-sight analysis, Fresnel zones, atmospheric effects, rain scatter, meteor scatter, EME and microwave propagation.
-
-</td>
-
-<td width="33%" valign="top">
-
-### Engineering Software
-
-Technical web applications, visualization, simulation utilities, measurement tools and interfaces connecting software with RF systems.
+**Amateur Radio**
+VHF/UHF · microwave · QO-100 · DATV · weak-signal work under TA1RJV
 
 </td>
 </tr>
@@ -98,271 +62,30 @@ Technical web applications, visualization, simulation utilities, measurement too
 
 ---
 
-## Technical Stack
+## Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,linux,raspberrypi,git,bash,html,css,js,arduino,vscode,github&theme=dark&perline=14" alt="Technical stack"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,linux,raspberrypi,git,bash,js,html,css,vscode&theme=dark&perline=12" alt="Technical stack"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/GNU%20Radio-161b22?style=flat-square&logo=gnuradio&logoColor=FF6600" alt="GNU Radio"/>
-<img src="https://img.shields.io/badge/SDR-HackRF%20%C2%B7%20PlutoSDR-161b22?style=flat-square&logo=radio&logoColor=58a6ff" alt="SDR"/>
+<img src="https://img.shields.io/badge/HackRF%20·%20PlutoSDR-161b22?style=flat-square&logo=radio&logoColor=58a6ff" alt="SDR"/>
 <img src="https://img.shields.io/badge/KiCad-161b22?style=flat-square&logo=kicad&logoColor=314CB0" alt="KiCad"/>
-<img src="https://img.shields.io/badge/LaTeX-161b22?style=flat-square&logo=latex&logoColor=008080" alt="LaTeX"/>
-<img src="https://img.shields.io/badge/Markdown-161b22?style=flat-square&logo=markdown&logoColor=ffffff" alt="Markdown"/>
-<img src="https://img.shields.io/badge/Jupyter-161b22?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter"/>
 <img src="https://img.shields.io/badge/NumPy-161b22?style=flat-square&logo=numpy&logoColor=4dabcf" alt="NumPy"/>
 <img src="https://img.shields.io/badge/SciPy-161b22?style=flat-square&logo=scipy&logoColor=8CAAE6" alt="SciPy"/>
+<img src="https://img.shields.io/badge/LaTeX-161b22?style=flat-square&logo=latex&logoColor=008080" alt="LaTeX"/>
 
 </div>
 
 ---
 
-## Engineering Method
+## Approach
 
-I approach technical problems from the **system level first**.
+> Simulation describes what *should* happen. Documentation describes what is *expected*. Measurement describes what *actually* happens. The interesting engineering lives in the gap between the three.
 
-The objective is not merely to obtain a working result, but to understand:
-
-* which assumptions produced the result,
-* which physical mechanism is responsible,
-* where the model is valid,
-* where measurement uncertainty enters,
-* and whether the result can be independently reproduced.
-
-```mermaid
-%%{init: {
-  "theme": "dark",
-  "themeVariables": {
-    "primaryColor": "#0d1117",
-    "primaryTextColor": "#ffffff",
-    "primaryBorderColor": "#58a6ff",
-    "lineColor": "#1f6feb",
-    "secondaryColor": "#161b22",
-    "tertiaryColor": "#0d1117"
-  }
-}}%%
-
-flowchart LR
-    A([Problem]) --> B([Physical Model])
-    B --> C([Analysis])
-    C --> D([Implementation])
-    D --> E([Measurement])
-    E --> F([Validation])
-    F --> G([Documentation])
-    G -. Feedback .-> A
-```
-
-<div align="center">
-
-|     Simulation     |   Documentation  |      Measurement      |
-| :----------------: | :--------------: | :-------------------: |
-| What should happen | What is expected | What actually happens |
-
-</div>
-
-The difference between these three is often where the interesting engineering problems begin.
-
----
-
-## Research & Development Themes
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### RF & Microwave
-
-* RF front-end design
-* Amplification and gain staging
-* Filtering and frequency conversion
-* Impedance matching
-* Transmission-line behaviour
-* Microwave systems
-* Practical RF measurement
-
-### SDR & DSP
-
-* SDR architectures
-* IQ signal processing
-* Digital modulation
-* Signal generation and analysis
-* Receiver and transmitter chains
-* Software-controlled RF
-
-### Digital Communications
-
-* Weak-signal systems
-* Synchronization
-* Digital modes
-* Coding and bandwidth efficiency
-* Experimental communication protocols
-
-### Propagation
-
-* Rain scatter
-* Meteor scatter
-* EME
-* Line-of-sight analysis
-* Fresnel clearance
-* Atmospheric propagation
-
-</td>
-
-<td width="50%" valign="top">
-
-### Antennas
-
-* Practical antenna systems
-* RF matching
-* Antenna behaviour
-* System-level performance
-
-### Embedded & Linux
-
-* Embedded Linux
-* Raspberry Pi systems
-* Networking
-* Hardware interfaces
-* Automation
-* RF control platforms
-
-### Engineering Software
-
-* RF-oriented web applications
-* Visualization
-* Measurement interfaces
-* Propagation utilities
-* Geographic data processing
-* Simulation and analysis tools
-
-### Experimental Systems
-
-* Reverse engineering
-* Undocumented hardware
-* Measurement-driven characterization
-* Test automation
-* Reproducible experimentation
-
-</td>
-</tr>
-</table>
-
----
-
-## R&D Philosophy
-
-A recurring theme in my work is turning **technically incomplete information** into systems that can be **understood, tested and reproduced**.
-
-```text
-Documentation
-      +
-Physical reasoning
-      +
-Experimentation
-      +
-Measurement
-      +
-Software
-      ↓
-Reproducible engineering knowledge
-```
-
-The interesting part is often not the component itself, but the interaction between the components.
-
-A datasheet may describe the expected behaviour.
-
-A simulation may describe the theoretical behaviour.
-
-A measurement reveals the behaviour of the actual hardware.
-
-The engineering problem is understanding the difference.
-
----
-
-## Open Source & Amateur Radio
-
-I use GitHub to document and develop **engineering tools, experimental software, research projects and communication systems**.
-
-My amateur-radio work provides a practical environment where several disciplines converge:
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/RF%20Engineering-161b22?style=flat-square&logo=radio&logoColor=58a6ff" alt="RF Engineering"/>
-<img src="https://img.shields.io/badge/SDR-161b22?style=flat-square&logo=radio&logoColor=58a6ff" alt="SDR"/>
-<img src="https://img.shields.io/badge/DSP-161b22?style=flat-square&logo=radio&logoColor=58a6ff" alt="DSP"/>
-<img src="https://img.shields.io/badge/VHF%20%2F%20UHF-161b22?style=flat-square&logo=radio&logoColor=58a6ff" alt="VHF UHF"/>
-<img src="https://img.shields.io/badge/Microwave-161b22?style=flat-square&logo=radio&logoColor=58a6ff" alt="Microwave"/>
-<img src="https://img.shields.io/badge/QO--100-161b22?style=flat-square&logo=satellite&logoColor=58a6ff" alt="QO-100"/>
-<img src="https://img.shields.io/badge/EME-161b22?style=flat-square&logo=radio&logoColor=58a6ff" alt="EME"/>
-<img src="https://img.shields.io/badge/Meteor%20Scatter-161b22?style=flat-square&logo=radio&logoColor=58a6ff" alt="Meteor Scatter"/>
-<img src="https://img.shields.io/badge/Rain%20Scatter-161b22?style=flat-square&logo=radio&logoColor=58a6ff" alt="Rain Scatter"/>
-<img src="https://img.shields.io/badge/DATV-161b22?style=flat-square&logo=radio&logoColor=58a6ff" alt="DATV"/>
-
-</div>
-
-I operate under the callsign **TA1RJV**.
-
----
-
-## Engineering Principles
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### Measurable
-
-Prefer quantitative evidence over purely qualitative conclusions.
-
-</td>
-
-<td align="center" width="33%">
-
-### Reproducible
-
-Results should not depend on undocumented assumptions.
-
-</td>
-
-<td align="center" width="33%">
-
-### Physically Consistent
-
-Models should remain compatible with the underlying physical system.
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### Explicit Uncertainty
-
-Unknowns, tolerances and measurement limitations should be visible.
-
-</td>
-
-<td align="center">
-
-### Documented
-
-Knowledge should remain accessible beyond the original experiment.
-
-</td>
-
-<td align="center">
-
-### Verifiable
-
-Claims should be testable against evidence.
-
-</td>
-</tr>
-</table>
-
-> **The objective is not simply to make a system work — it is to understand why it works, when it works, when it fails, and how the result can be reproduced.**
+I approach problems from the **system level first** — treating RF hardware, DSP, software, antennas, propagation and instrumentation as parts of one engineering problem, not isolated domains. Results should be measurable, reproducible and physically consistent; unknowns, tolerances and measurement limits should be visible rather than hidden.
 
 ---
 
@@ -370,61 +93,12 @@ Claims should be testable against evidence.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ta1rjv&theme=github_dark" height="180" alt="GitHub statistics"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ta1rjv&theme=github_dark&exclude=Jupyter%20Notebook" height="180" alt="Repositories by language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ta1rjv&theme=github_dark" height="160" alt="GitHub statistics"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ta1rjv&theme=github_dark&exclude=Jupyter%20Notebook" height="160" alt="Most committed language"/>
 
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ta1rjv&theme=github_dark&exclude=Jupyter%20Notebook" height="180" alt="Most committed language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ta1rjv&theme=github_dark&utcOffset=3" height="180" alt="Productive time"/>
-
-<br/><br/>
+<br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ta1rjv&theme=github_dark" width="94%" alt="GitHub profile details"/>
-
-<br/><br/>
-
-<img
-  src="https://raw.githubusercontent.com/ta1rjv/ta1rjv/output/activity-graph.svg"
-  width="94%"
-  alt="GitHub contribution activity"
-/>
-
-</div>
-
----
-
-## 3D Contribution Graph
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/ta1rjv/ta1rjv/main/profile-3d-contrib/profile-night-rainbow.svg"
-width="94%"
-alt="3D GitHub Contribution Graph"
-/>
-
-<br/>
-
-<sub>Automatically generated from GitHub contribution activity.</sub>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/ta1rjv/ta1rjv/output/github-contribution-grid-snake-dark.svg"
-width="94%"
-alt="GitHub Contribution Snake"
-/>
-
-<br/>
-
-<sub>Contribution activity rendered as a generated SVG.</sub>
 
 </div>
 
